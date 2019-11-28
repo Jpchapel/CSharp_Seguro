@@ -70,3 +70,14 @@ C:\Users\Stream\Desktop\Clases\REPETIR\DEIN\Seguro_Ex\Seguro\obj\Debug\Seguro.fS
 C:\Users\Stream\Desktop\Clases\REPETIR\DEIN\Seguro_Ex\Seguro\obj\Debug\Seguro.fTelefonos.resources
 C:\Users\Stream\Desktop\Clases\REPETIR\DEIN\Seguro_Ex\Seguro\obj\Debug\Seguro.Properties.Resources.resources
 C:\Users\Stream\Desktop\Clases\REPETIR\DEIN\Seguro_Ex\Seguro\obj\Debug\Seguro.csproj.GenerateResource.Cache
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\bin\Debug\Seguro.exe.config
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.exe
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.pdb
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\bin\Debug\Seguro.exe
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\bin\Debug\Seguro.pdb
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.csprojResolveAssemblyReference.cache
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.fOutrosDatos.resources
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.fSeguro.resources
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.fTelefonos.resources
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.Properties.Resources.resources
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.csproj.GenerateResource.Cache

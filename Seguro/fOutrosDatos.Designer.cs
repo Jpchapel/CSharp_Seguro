@@ -65,6 +65,7 @@
             this.tbxEdade.Name = "tbxEdade";
             this.tbxEdade.Size = new System.Drawing.Size(139, 20);
             this.tbxEdade.TabIndex = 6;
+            this.tbxEdade.Leave += new System.EventHandler(this.PerderFoco);
             // 
             // gbxSexo
             // 
