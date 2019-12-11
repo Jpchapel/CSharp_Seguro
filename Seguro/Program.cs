@@ -16,7 +16,7 @@ namespace Seguro
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fSeguro());
+            Application.Run(new Seguro());
         }
     }
 }
