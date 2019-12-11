@@ -47,11 +47,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Asegurado.cs" />
-    <Compile Include="OutrosDatos.cs">
+    <Compile Include="OtrosDatos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="OutrosDatos.Designer.cs">
-      <DependentUpon>OutrosDatos.cs</DependentUpon>
+    <Compile Include="OtrosDatos.Designer.cs">
+      <DependentUpon>OtrosDatos.cs</DependentUpon>
     </Compile>
     <Compile Include="Seguro.cs">
       <SubType>Form</SubType>
@@ -67,8 +67,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="OutrosDatos.resx">
-      <DependentUpon>OutrosDatos.cs</DependentUpon>
+    <EmbeddedResource Include="OtrosDatos.resx">
+      <DependentUpon>OtrosDatos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Seguro.resx">
       <DependentUpon>Seguro.cs</DependentUpon>

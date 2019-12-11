@@ -70,3 +70,6 @@ C:\Users\Stream\Desktop\Clases\REPETIR\DEIN\Seguro_Ex\Seguro\obj\Debug\Seguro.cs
 C:\Users\Stream\Desktop\Clases\REPETIR\DEIN\Seguro_Ex\Seguro\obj\Debug\Seguro.OtrosDatos.resources
 C:\Users\Stream\Desktop\Clases\REPETIR\DEIN\Seguro_Ex\Seguro\obj\Debug\Seguro.Seguro.resources
 C:\Users\Stream\Desktop\Clases\REPETIR\DEIN\Seguro_Ex\Seguro\obj\Debug\Seguro.Telefonos.resources
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\bin\Debug\Seguro.exe.config
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.exe
+C:\Users\Stream\Documents\GitHub\DEIN_Seguro\Seguro\obj\Debug\Seguro.pdb
