@@ -40,7 +40,7 @@ namespace Seguro
         {
             foreach (Control item in Controls)
             {
-                if (item.Name.Contains("tbx"))
+                if (item.Name.Equals("datosAsegurado"))
                 {
                     item.Text = string.Empty;
                 }                
