@@ -13,7 +13,7 @@ namespace Seguro
     public partial class Seguro : Form
     {
         Asegurado asegurado = new Asegurado();
-
+        
         public Seguro()
         {
             InitializeComponent();
